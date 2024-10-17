@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willgraves1
-- 👀 I’m interested in created AI and advanced software
-- 🌱 I’m currently working on updating my own programming language
-- 💞️ I’m looking to collaborate on The Jenny project
+- 👀 I’m interested in created AI and other advanced software
+- 🌱 I’m currently working on updating previous projects
+- 💞️ I’m looking to collaborate on Many AI power or cybersecurity projects
 - 📫 How to reach me Williamgraves@willgraves.co.uk
 
 <!---
